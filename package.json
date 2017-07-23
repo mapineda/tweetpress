@@ -1,0 +1,22 @@
+{
+  "name": "tweetpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapineda/tweetpress.git"
+  },
+  "author": "Marco P (http://www.owlery.club/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapineda/tweetpress/issues"
+  },
+  "homepage": "https://github.com/mapineda/tweetpress#readme",
+  "dependencies": {
+    "twitter": "1.7.1"
+  }
+}
